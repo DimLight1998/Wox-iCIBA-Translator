@@ -1,0 +1,12 @@
+{
+    "ID": "ba2ba58a-89d7-4799-a73f-90b7688c11b5",
+    "ActionKeyword": "cb",
+    "Name": "iciba",
+    "Description": "Translate using www.iciba.com",
+    "Author": "Zhang Yang",
+    "Version": "0.0.1",
+    "Language": "python",
+    "Website": null,
+    "ExecuteFileName": "iciba_translator.py",
+    "IcoPath": "Image\\icon.png"
+}
